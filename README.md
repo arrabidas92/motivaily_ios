@@ -8,7 +8,7 @@ MVVM
 Programmatically
 
 # Stack
-Firestore for database
+Firestore for database\
 Combine for reactive programming
 
 # Content
