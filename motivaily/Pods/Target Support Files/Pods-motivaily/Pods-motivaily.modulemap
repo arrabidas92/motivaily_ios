@@ -1,0 +1,6 @@
+framework module Pods_motivaily {
+  umbrella header "Pods-motivaily-umbrella.h"
+
+  export *
+  module * { export * }
+}

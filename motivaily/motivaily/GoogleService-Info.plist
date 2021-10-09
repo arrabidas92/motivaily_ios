@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1062804885621-4umoc55etoohi5cfbfmnvtk0gctsf9t7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1062804885621-4umoc55etoohi5cfbfmnvtk0gctsf9t7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJWPPnzdxUkfH_tKqArlqo1sIDhhO0-NA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1062804885621</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.oway.motivaily</string>
+	<key>PROJECT_ID</key>
+	<string>motivaily</string>
+	<key>STORAGE_BUCKET</key>
+	<string>motivaily.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1062804885621:ios:91cad7ea2daa2887d3e83c</string>
+</dict>
+</plist>
